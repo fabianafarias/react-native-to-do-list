@@ -1,5 +1,5 @@
-#A simple Shopping List created with React native. 
+##A simple Shopping List created with React native. 
 
-### x Interface concluded with the options: add, edit, save and delete. 
+### - [x] Interface concluded with the options: add, edit, save and delete. 
 
-### Next step: add a database to save the list.
+### - [x] Next step: add a database to save the list.
